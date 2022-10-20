@@ -14,7 +14,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-web": "~0.11.7",
     "react-native-youtube": "^2.0.0",
-    "react-native-yt-player": "^1.0.6",
+    "react-native-yt-player": "^1.1.0",
     "react-navigation": "^1.5.11"
   },
   "devDependencies": {
